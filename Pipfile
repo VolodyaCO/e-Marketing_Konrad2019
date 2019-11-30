@@ -12,6 +12,11 @@ scrapy = "*"
 selenium = "*"
 beautifulsoup4 = "*"
 nltk = "*"
+fasttext = "*"
+xgboost = "*"
+pandas = "*"
+seaborn = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.7"
